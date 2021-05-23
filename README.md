@@ -23,9 +23,6 @@ En este taller vamos a continuar con el ejercicio de la distancia mas corta. par
  | :-------------: |
 |Obtiene la distancia total que recorre la señal sumando las distancias parciales calculadas  |
 
-## Algoritmos
-Por cada requisito funcional debemos tener un algoritmo. En el análisis y diseño que hicimos aplicando IDEAL se escribieron dos, animate a escribir en este editor los algoritmos faltantes; puedes usar como base los que te presentamos
-
 ---
 Algoritmo: R1:Calcular distancia entre Celular 1 y Antena 1
 ---
